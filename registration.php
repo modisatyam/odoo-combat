@@ -1,8 +1,5 @@
 <!-- <?php
-
 require_once "partials\_navbar.php";
-
-
 ?> -->
 
 <!DOCTYPE html>
