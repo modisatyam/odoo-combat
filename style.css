@@ -3,7 +3,6 @@
 * {
     margin: 0;
     padding: 0;
-   
 }
 
 
@@ -153,9 +152,6 @@ nav button:hover{
 .regstatus {
     margin-top: 15px;
 }
-
-/* registration page css ends */
-
 .carousel {
     display: flex;
     overflow-x: auto;
@@ -182,6 +178,8 @@ nav button:hover{
     align-items: center;
     justify-content: center;
     text-align: center;
+    box-shadow: 3px 5px 1px blueviolet;
+
   }
   .carousel-item img {
     max-width: 100%;
@@ -196,6 +194,8 @@ nav button:hover{
     color: blueviolet;
     margin: 0 20px;
   }
+
+/* registration page css ends */
 
 @media only screen and (max-width: 750px) {
 
@@ -258,3 +258,4 @@ nav button:hover{
     }
 
 }
+

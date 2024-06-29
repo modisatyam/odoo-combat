@@ -6,8 +6,8 @@
   <ul>
     <h1>Furniflex</h1>
     <li><a href="index.php">Home</a></li>
-    <li><a href="furniture.html">Furniture</a></li>
-    <li><a href="About.php">About</a></li>
+    <li><a href="furniture.php">Furniture</a></li>
+    <li><a href="#About.php">About</a></li>
   </ul>
 </div>
 <div class="right_nav">
